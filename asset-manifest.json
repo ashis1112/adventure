@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/adventure/static/css/main.cacbd9fd.chunk.css",
+    "main.js": "/adventure/static/js/main.777153df.chunk.js",
+    "main.js.map": "/adventure/static/js/main.777153df.chunk.js.map",
+    "runtime-main.js": "/adventure/static/js/runtime-main.11705ce1.js",
+    "runtime-main.js.map": "/adventure/static/js/runtime-main.11705ce1.js.map",
+    "static/js/2.cbc363f7.chunk.js": "/adventure/static/js/2.cbc363f7.chunk.js",
+    "static/js/2.cbc363f7.chunk.js.map": "/adventure/static/js/2.cbc363f7.chunk.js.map",
+    "static/js/3.e1f7ed47.chunk.js": "/adventure/static/js/3.e1f7ed47.chunk.js",
+    "static/js/3.e1f7ed47.chunk.js.map": "/adventure/static/js/3.e1f7ed47.chunk.js.map",
+    "index.html": "/adventure/index.html",
+    "static/css/main.cacbd9fd.chunk.css.map": "/adventure/static/css/main.cacbd9fd.chunk.css.map",
+    "static/js/2.cbc363f7.chunk.js.LICENSE.txt": "/adventure/static/js/2.cbc363f7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/adventure/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-4.a31875b7.jpg": "/adventure/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/adventure/static/media/img-9.f97f588f.jpg",
+    "static/media/heros.css": "/adventure/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11705ce1.js",
+    "static/js/2.cbc363f7.chunk.js",
+    "static/css/main.cacbd9fd.chunk.css",
+    "static/js/main.777153df.chunk.js"
+  ]
+}
